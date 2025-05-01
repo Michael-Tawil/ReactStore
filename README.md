@@ -47,10 +47,6 @@ This project simulates a simple e-commerce experience with product browsing, car
 ![Screenshot From 2025-05-01 11-24-40](https://github.com/user-attachments/assets/ad24f67e-9706-4cfd-bf52-323eef254a1d)
 
 ---
-## 🧪 How to Run It Locally
+Live Deployment
 
-```bash
-git clone [repo_url]
-cd react-store
-npm install
-npm run dev
+https://reactst0re.netlify.app/
